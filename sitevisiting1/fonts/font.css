@@ -1,0 +1,17 @@
+/*обычный*/
+@font-face {
+    font-family: "PTSerif";
+    font-style: normal;
+    font-weight: 250;
+    src: local("PTSerif"),
+             url("PTSerif-Regular.woff") format("woff")
+  }
+  /*курив*/
+  @font-face {
+    font-family: "PTSerif-Italic";
+    font-style: normal;
+    font-weight: 250;
+    src: local("PTSerif-Italic"),
+             url("PTSerif-Italic.woff") format("woff")
+  }
+  
